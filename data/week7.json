@@ -1,0 +1,422 @@
+{
+  "week": 7,
+  "title": "Pronoun Agreement & Reference Chains",
+  "breadcrumb": "Week 7: Pronoun Agreement & Reference Chains",
+  "introduction": {
+    "overview": "This week focuses on maintaining clear pronoun agreement and creating coherent reference chains throughout texts. In technology and social media contexts, where discussions about users, platforms, data, and communities are common, precise pronoun use ensures clarity and professionalism. We'll examine how to avoid ambiguity when multiple referents are present and how to maintain consistency across longer passages.",
+    "objectives": [
+      "Ensure correct pronoun-antecedent agreement in number, gender, and person",
+      "Create clear reference chains that guide readers through complex technical discussions",
+      "Identify and resolve ambiguous pronoun references in technology contexts",
+      "Apply strategies for maintaining pronoun consistency across extended texts"
+    ]
+  },
+  "lecture": {
+    "sections": [
+      {
+        "heading": "Pronoun-Antecedent Agreement: Number and Person",
+        "content": "Pronouns must agree with their antecedents in <strong>number</strong> (singular/plural) and <strong>person</strong> (first/second/third). Common errors occur with indefinite pronouns like <em>everyone</em>, <em>someone</em>, and <em>each</em> (grammatically singular) and with collective nouns like <em>team</em> or <em>company</em>. In technology contexts, treating <strong>data</strong> (traditionally plural but often used as singular in American English) and corporate entities requires special attention.",
+        "example": "Incorrect: 'Each user must update their password.' Correct (formal): 'Each user must update his or her password.' Acceptable (contemporary): 'Each user must update their password.' Also correct: 'Everyone on the development team has submitted their code review.' (singular 'everyone' with increasingly accepted singular 'their')"
+      },
+      {
+        "heading": "Collective Nouns and Corporate Entities",
+        "content": "Words like <strong>company</strong>, <strong>team</strong>, <strong>staff</strong>, and <strong>committee</strong> can be singular or plural depending on whether you're emphasizing the group as a unit or as individuals. In American English, these are typically singular; in British English, they're often plural. Platform names and corporate entities (Facebook, Twitter, Google) are singular and take <em>it</em> unless personified. Be consistent throughout a text.",
+        "example": "American: 'Meta has announced its new privacy policy.' British: 'Meta have announced their new privacy policy.' Correct: 'The development team is reviewing its sprint goals.' Also: 'Instagram rolled out its new feature to all users.'"
+      },
+      {
+        "heading": "Creating Clear Reference Chains",
+        "content": "A <strong>reference chain</strong> connects pronouns and noun phrases that refer to the same entity throughout a text. Clear chains use varied but unambiguous referents: full nouns, pronouns, and synonyms. Problems arise when multiple possible antecedents exist or when too much distance separates pronoun from referent. In technology writing, maintain clarity when discussing <em>users</em>, <em>platforms</em>, <em>algorithms</em>, and <em>data</em> simultaneously.",
+        "example": "Unclear: 'When users interact with the algorithm, it learns from it.' Clear: 'When users interact with the algorithm, the system learns from their behavior.' The second version clarifies that 'the system' (algorithm) learns from 'their' (users') behavior."
+      },
+      {
+        "heading": "Avoiding Ambiguous References",
+        "content": "Ambiguity occurs when a pronoun could refer to multiple antecedents, when the antecedent is implied but not stated, or when <strong>this</strong>, <strong>that</strong>, <strong>it</strong>, or <strong>which</strong> refers vaguely to an entire previous clause. To fix ambiguity, repeat the noun, restructure the sentence, or use a more specific phrase like <em>this policy</em> instead of just <em>this</em>.",
+        "example": "Ambiguous: 'The app collects user data and sends it to servers. This concerns privacy advocates.' Clear: 'The app collects user data and sends it to servers. This data collection practice concerns privacy advocates.' The specific phrase 'data collection practice' eliminates ambiguity about what concerns advocates."
+      }
+    ]
+  },
+  "giveItATry": {
+    "instructions": "These quick exercises help you build confidence with pronoun agreement and reference chains. Try each one and see how it feels.",
+    "activities": [
+      {
+        "type": "fill-blank",
+        "prompt": "Complete: Every social media platform must protect _____ users' privacy.",
+        "answer": "its",
+        "explanation": "Platform names are singular entities, so use 'its' not 'their'"
+      },
+      {
+        "type": "identification",
+        "prompt": "Identify the ambiguous pronoun: 'The developer told the designer that she needed to revise the interface.'",
+        "answer": "she",
+        "explanation": "'She' could refer to either the developer or the designer. Clarify: 'The developer told the designer that the designer needed to revise the interface.'"
+      },
+      {
+        "type": "choice",
+        "prompt": "Which is correct: 'The team has completed (its/their) sprint planning.'",
+        "answer": "its",
+        "explanation": "In American English, collective nouns like 'team' are typically singular and take 'its'"
+      },
+      {
+        "type": "rewrite",
+        "prompt": "Fix the reference chain: 'TikTok launched a new feature. It has privacy concerns. Users are worried about it.'",
+        "answer": "TikTok launched a new feature. This feature raises privacy concerns. Users are worried about how their data will be used.",
+        "explanation": "Replace vague 'it' references with specific nouns or phrases to create a clear reference chain"
+      }
+    ]
+  },
+  "exercises": {
+    "instructions": "These exercises develop your awareness of pronoun agreement and reference clarity. Take your time with each one.",
+    "items": [
+      {
+        "question": "Choose the correct pronoun: 'Each content creator should back up _____ files regularly.'",
+        "options": ["his", "their", "its", "his or her"],
+        "correct": "his or her",
+        "explanation": "'Each' is grammatically singular, so 'his or her' is most formally correct, though 'their' is increasingly accepted in contemporary usage"
+      },
+      {
+        "question": "Which sentence has correct pronoun agreement?",
+        "options": [
+          "Everyone in the coding bootcamp has their own laptop.",
+          "Everyone in the coding bootcamp have their own laptop.",
+          "Everyone in the coding bootcamp has its own laptop.",
+          "Everyone in the coding bootcamp have his own laptop."
+        ],
+        "correct": "Everyone in the coding bootcamp has their own laptop.",
+        "explanation": "'Everyone' takes singular verb 'has' and contemporary usage accepts singular 'their' for gender inclusivity"
+      },
+      {
+        "question": "Identify the sentence with a clear reference chain:",
+        "options": [
+          "When users post content, it analyzes it for violations.",
+          "When users post content, the platform analyzes the posts for violations.",
+          "When users post content, they analyze them for violations.",
+          "When users post content, it analyzes them for violations."
+        ],
+        "correct": "When users post content, the platform analyzes the posts for violations.",
+        "explanation": "This version clearly identifies both the actor (platform) and the object (posts) without ambiguous pronouns"
+      },
+      {
+        "question": "Which pronoun correctly refers to a company name: 'Google announced _____ new AI features.'",
+        "options": ["its", "their", "it's", "his"],
+        "correct": "its",
+        "explanation": "Company names are singular entities and take 'its' (possessive), not 'their' or \"it's\" (it is)"
+      },
+      {
+        "question": "Fix the ambiguous reference: 'The algorithm recommended posts to users based on its preferences.'",
+        "options": [
+          "Keep as is - it's correct",
+          "Change 'its' to 'their'",
+          "Change 'its' to 'his or her'",
+          "Change 'The algorithm' to 'It'"
+        ],
+        "correct": "Change 'its' to 'their'",
+        "explanation": "'Preferences' belong to users (plural), not the algorithm, so use 'their' to refer to users"
+      },
+      {
+        "question": "Which sentence maintains pronoun consistency?",
+        "options": [
+          "If one wants to protect your privacy, you should review their settings.",
+          "If you want to protect your privacy, you should review your settings.",
+          "If you want to protect one's privacy, one should review your settings.",
+          "If one wants to protect their privacy, you should review one's settings."
+        ],
+        "correct": "If you want to protect your privacy, you should review your settings.",
+        "explanation": "This maintains consistent second-person point of view throughout the sentence"
+      },
+      {
+        "question": "Which collective noun use is correct in American English?",
+        "options": [
+          "The data science team have completed their analysis.",
+          "The data science team has completed its analysis.",
+          "The data science team have completed its analysis.",
+          "The data science team has completed their analysis."
+        ],
+        "correct": "The data science team has completed its analysis.",
+        "explanation": "In American English, collective nouns take singular verbs ('has') and singular pronouns ('its')"
+      },
+      {
+        "question": "Identify the vague pronoun reference: 'Social media companies collect data and sell targeted ads. This is controversial.'",
+        "options": [
+          "No vague reference present",
+          "'This' vaguely refers to the entire previous idea",
+          "'Data' is vague",
+          "'Companies' is vague"
+        ],
+        "correct": "'This' vaguely refers to the entire previous idea",
+        "explanation": "'This' should be followed by a specific noun: 'This business model' or 'This practice' for clarity"
+      },
+      {
+        "question": "Choose the sentence with proper pronoun-antecedent agreement:",
+        "options": [
+          "Neither Facebook nor Instagram have updated their algorithm.",
+          "Neither Facebook nor Instagram has updated its algorithm.",
+          "Neither Facebook nor Instagram have updated its algorithm.",
+          "Neither Facebook nor Instagram has updated their algorithm."
+        ],
+        "correct": "Neither Facebook nor Instagram has updated its algorithm.",
+        "explanation": "With 'neither...nor' and singular subjects, use singular verb ('has') and singular pronoun ('its')"
+      },
+      {
+        "question": "Which revision creates the clearest reference chain?",
+        "options": [
+          "The app notified the user that it was updated. They should restart it.",
+          "The app notified the user that the app was updated. The user should restart the app.",
+          "It notified them that it was updated. They should restart it.",
+          "The app notified the user about it. They should restart."
+        ],
+        "correct": "The app notified the user that the app was updated. The user should restart the app.",
+        "explanation": "Repeating nouns eliminates all ambiguity about which entity performs each action"
+      }
+    ]
+  },
+  "quiz": {
+    "instructions": "Test your skills with these questions. Three questions appear at a time - get all three correct to pass! Remember to take a screenshot of your passing score for submission.",
+    "questions": [
+      {
+        "question": "Select correct agreement: 'Somebody left _____ phone in the coding lab.'",
+        "options": ["their", "his", "its", "our"],
+        "correct": "their",
+        "explanation": "While 'somebody' is grammatically singular, contemporary usage accepts 'their' for gender-neutral reference"
+      },
+      {
+        "question": "Which sentence has an ambiguous pronoun?",
+        "options": [
+          "The programmer fixed the bug quickly.",
+          "When developers test code, they often find errors.",
+          "Sarah told Maria that she got the promotion.",
+          "The platform updated its security features."
+        ],
+        "correct": "Sarah told Maria that she got the promotion.",
+        "explanation": "'She' could refer to either Sarah or Maria, creating ambiguity"
+      },
+      {
+        "question": "Correct British English usage: 'The tech company _____ announced _____ earnings.'",
+        "options": ["has, its", "have, their", "has, their", "have, its"],
+        "correct": "have, their",
+        "explanation": "British English often treats companies as plural: 'have' and 'their'"
+      },
+      {
+        "question": "Which demonstrates proper reference chain?",
+        "options": [
+          "Users create content. It is moderated. They review it.",
+          "Users create content. The platform moderates this content. Moderators review the submissions.",
+          "They create it. It is moderated. They review it.",
+          "Users create content. It is moderated by them. Then they review them."
+        ],
+        "correct": "Users create content. The platform moderates this content. Moderators review the submissions.",
+        "explanation": "This version clearly identifies each actor and object in the chain without ambiguous pronouns"
+      },
+      {
+        "question": "Fix the agreement error: 'Everyone must sign up with their email, but they needs verification.'",
+        "options": [
+          "Change 'they needs' to 'they need'",
+          "Change 'their' to 'his'",
+          "Change 'Everyone' to 'All users'",
+          "No error present"
+        ],
+        "correct": "Change 'they needs' to 'they need'",
+        "explanation": "'They' always takes plural verb 'need,' not 'needs'"
+      },
+      {
+        "question": "Choose correct pronoun: 'Twitter has changed _____ name to X.'",
+        "options": ["its", "their", "it's", "his"],
+        "correct": "its",
+        "explanation": "Company names take singular possessive 'its' (not \"it's\" which means 'it is')"
+      },
+      {
+        "question": "Which sentence avoids vague 'this'?",
+        "options": [
+          "The app collects location data constantly. This concerns users.",
+          "The app collects location data constantly. This is a concern.",
+          "The app collects location data constantly. This data collection practice concerns users.",
+          "The app collects location data constantly. This happens often."
+        ],
+        "correct": "The app collects location data constantly. This data collection practice concerns users.",
+        "explanation": "Adding a specific noun after 'this' clarifies exactly what concerns users"
+      },
+      {
+        "question": "Identify the pronoun shift: 'When you download apps, one should read the terms of service carefully.'",
+        "options": [
+          "Shift from 'you' to 'one'",
+          "Shift from 'apps' to 'service'",
+          "No shift present",
+          "Shift from 'download' to 'read'"
+        ],
+        "correct": "Shift from 'you' to 'one'",
+        "explanation": "The sentence shifts from second person 'you' to third person 'one' - should maintain consistency"
+      },
+      {
+        "question": "Which uses indefinite pronouns correctly?",
+        "options": [
+          "Each of the developers have their own workstation.",
+          "Each of the developers has his or her own workstation.",
+          "Each of the developers have his workstation.",
+          "Each of the developers are having their own workstation."
+        ],
+        "correct": "Each of the developers has his or her own workstation.",
+        "explanation": "'Each' is singular and takes singular verb 'has' and singular pronoun 'his or her'"
+      },
+      {
+        "question": "Select the sentence with clear pronoun reference:",
+        "options": [
+          "The AI processes user input and then it generates it.",
+          "It processes it and then it generates it.",
+          "The AI processes user input and then generates appropriate responses.",
+          "The AI processes it and then it generates responses."
+        ],
+        "correct": "The AI processes user input and then generates appropriate responses.",
+        "explanation": "This version maintains clarity by using specific nouns and eliminating ambiguous 'it' references"
+      },
+      {
+        "question": "Correct the error: 'Anyone can improve their coding skills if you practice regularly.'",
+        "options": [
+          "Change 'you' to 'they'",
+          "Change 'their' to 'your'",
+          "Change 'Anyone' to 'Everyone'",
+          "No error present"
+        ],
+        "correct": "Change 'you' to 'they'",
+        "explanation": "Must maintain consistency: 'Anyone...their...they' (third person) or rephrase entirely"
+      },
+      {
+        "question": "Which sentence treats 'data' correctly in American English?",
+        "options": [
+          "The data shows interesting patterns in user behavior.",
+          "The data show interesting patterns in user behavior.",
+          "The data is shows interesting patterns in user behavior.",
+          "The data are shows interesting patterns in user behavior."
+        ],
+        "correct": "The data shows interesting patterns in user behavior.",
+        "explanation": "American English increasingly treats 'data' as singular mass noun: 'data shows' (though 'data are' remains acceptable)"
+      },
+      {
+        "question": "Identify the antecedent of 'their': 'When developers collaborate on GitHub, their code becomes more robust.'",
+        "options": ["GitHub", "developers", "code", "collaborate"],
+        "correct": "developers",
+        "explanation": "'Their' refers back to 'developers' (the possessors of the code)"
+      },
+      {
+        "question": "Which fixes the ambiguous reference: 'Remove the old app before installing the new app. It may cause conflicts.'",
+        "options": [
+          "Replace 'It' with 'The old app'",
+          "Replace 'It' with 'The new app'",
+          "Replace 'It' with 'Installing the new app'",
+          "No fix needed"
+        ],
+        "correct": "Replace 'It' with 'The old app'",
+        "explanation": "Clarifying that the old app (not the installation process) may cause conflicts eliminates ambiguity"
+      },
+      {
+        "question": "Choose correct agreement: 'Either the moderators or the algorithm _____ flagged _____ content.'",
+        "options": ["has, its", "have, their", "has, their", "have, its"],
+        "correct": "has, its",
+        "explanation": "With 'either...or,' verb agrees with nearest subject (algorithm, singular), so 'has' and 'its'"
+      },
+      {
+        "question": "Which maintains pronoun consistency throughout?",
+        "options": [
+          "If one wants to become a developer, you must practice coding daily.",
+          "If you want to become a developer, one must practice coding daily.",
+          "If you want to become a developer, you must practice coding daily.",
+          "If one wants to become a developer, we must practice coding daily."
+        ],
+        "correct": "If you want to become a developer, you must practice coding daily.",
+        "explanation": "This maintains consistent second-person point of view: 'you...you...you'"
+      },
+      {
+        "question": "Select the sentence with proper collective noun agreement (American English):",
+        "options": [
+          "The software development team have finished their project.",
+          "The software development team has finished its project.",
+          "The software development team have finished its project.",
+          "The software development team are finishing their project."
+        ],
+        "correct": "The software development team has finished its project.",
+        "explanation": "American English treats collective nouns as singular: 'team has...its'"
+      },
+      {
+        "question": "Which creates the clearest reference chain across multiple sentences?",
+        "options": [
+          "Instagram launched Reels. It competes with TikTok. Users enjoy it.",
+          "Instagram launched Reels. The new feature competes with TikTok. Users enjoy creating short videos.",
+          "It launched it. It competes with it. They enjoy it.",
+          "Instagram launched Reels. Reels competes with TikTok. Users enjoy Reels."
+        ],
+        "correct": "Instagram launched Reels. The new feature competes with TikTok. Users enjoy creating short videos.",
+        "explanation": "This version uses varied but clear referents (Instagram, the new feature, users, short videos) creating an unambiguous chain"
+      },
+      {
+        "question": "Which sentence correctly handles an indefinite pronoun in a formal context?",
+        "options": [
+          "Everybody should update their password regularly.",
+          "Everybody should update his password regularly.",
+          "Everybody should update his or her password regularly.",
+          "Everybody should update its password regularly."
+        ],
+        "correct": "Everybody should update his or her password regularly.",
+        "explanation": "In formal writing, 'his or her' maintains grammatical agreement with singular 'everybody' (though 'their' is increasingly accepted)"
+      },
+      {
+        "question": "Identify what creates ambiguity: 'The startup hired interns and gave them equity. It was unprecedented.'",
+        "options": [
+          "'Them' is ambiguous",
+          "'It' vaguely refers to the whole situation",
+          "'Startup' is ambiguous",
+          "No ambiguity present"
+        ],
+        "correct": "'It' vaguely refers to the whole situation",
+        "explanation": "'It' should be replaced with a specific noun phrase like 'This equity offer' or 'This decision'"
+      }
+    ]
+  },
+  "assignment": {
+    "title": "Pronoun Agreement & Reference Chain Analysis in Digital Texts",
+    "instructions": "Complete ONE of the following activities. After submission, you'll peer review two classmates' assignments.",
+    "options": [
+      {
+        "title": "Social Media Platform Analysis",
+        "prompt": "Select a privacy policy, terms of service, or help document from a major social media platform (Meta, X/Twitter, TikTok, LinkedIn, etc.). Analyze a 400-500 word section focusing on pronoun usage and reference chains. Identify: (1) examples of correct and incorrect pronoun-antecedent agreement, (2) instances where reference chains are clear or ambiguous, (3) how collective nouns and corporate entities are treated, and (4) any pronoun consistency issues. Provide specific examples with line numbers and suggest revisions for any problematic passages.",
+        "deliverable": "Original text section + detailed analysis (300-400 words) with specific examples and revisions"
+      },
+      {
+        "title": "Tech Blog Revision Project",
+        "prompt": "Find a technology blog post or article (about apps, AI, social media trends, cybersecurity, etc.) that contains pronoun agreement errors or unclear reference chains. This could be from Medium, TechCrunch, personal blogs, or similar sources. Create a revision guide showing: (1) the original problematic passages (at least 5 examples), (2) your corrected versions, (3) explanations of what was wrong and why your revision improves clarity, and (4) general patterns you noticed in the text's pronoun usage. Your revision guide should demonstrate professional editing skills.",
+        "deliverable": "Source citation + original passages + revisions + explanatory commentary (400-500 words total)"
+      },
+      {
+        "title": "Bilingual Reference Chain Comparison",
+        "prompt": "Take a Spanish-language technology article or social media discussion (300-400 words) and translate it into English, paying special attention to pronoun usage. Then write a comparative analysis explaining: (1) how Spanish and English handle pronoun agreement differently (especially with collective nouns and indefinite pronouns), (2) challenges you encountered maintaining clear reference chains across languages, (3) places where Spanish's gender-marked pronouns provided clarity that English requires other strategies to achieve, and (4) how you resolved ambiguities. Include both Spanish source and English translation.",
+        "deliverable": "Spanish source text + English translation + comparative analysis (300-400 words)"
+      }
+    ],
+    "peerReview": {
+      "instructions": "Review two classmates' assignments using these criteria:",
+      "criteria": [
+        "Pronoun-antecedent agreement is analyzed or applied accurately",
+        "Reference chains are identified clearly and explanations demonstrate understanding",
+        "Examples from technology/social media contexts are relevant and well-chosen",
+        "Analysis or revisions show attention to clarity and professional standards"
+      ],
+      "format": "For each assignment, provide: (1) Two specific strengths with examples, (2) One area for improvement with concrete suggestions, (3) One question about a choice or analysis the author made"
+    }
+  },
+  "conclusion": {
+    "message": "Congratulations on completing this exploration of pronoun agreement and reference chains! Clear pronoun usage is essential for professional communication, especially in technology contexts where multiple entities (users, platforms, data, algorithms) interact. Mastering these concepts will improve both your writing and your ability to evaluate translations for clarity.",
+    "takeaways": [
+      "Pronouns must agree with antecedents in number, person, and (when relevant) gender",
+      "Indefinite pronouns like 'everyone' and 'each' are grammatically singular but increasingly take singular 'their' in contemporary usage",
+      "Collective nouns are typically singular in American English (team has its) but often plural in British English (team have their)",
+      "Clear reference chains use varied referents (nouns, pronouns, synonyms) without creating ambiguity",
+      "Vague uses of 'this,' 'that,' 'it,' and 'which' should be followed by specific nouns for clarity",
+      "Company and platform names are singular entities and take 'its,' not 'their'"
+    ],
+    "furtherPractice": [
+      "Review social media posts or tech articles you encounter, noting pronoun usage patterns",
+      "Practice identifying ambiguous pronouns in online discussions and mentally revising for clarity",
+      "Pay attention to how professional tech writers handle reference chains across paragraphs",
+      "When writing, circle pronouns and draw arrows to their antecedents to verify clarity",
+      "Compare how English and Spanish articles handle the same topic, focusing on pronoun differences",
+      "Create a personal style guide noting whether you prefer formal or contemporary approaches to indefinite pronouns"
+    ]
+  }
+}
